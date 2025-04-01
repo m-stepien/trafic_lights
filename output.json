@@ -1,0 +1,15 @@
+{
+  "stepStatuses" : [ {
+    "leftVehicles" : [ {
+      "vehicleId" : "vehicle1",
+      "startRoad" : "SOUTH",
+      "endRoad" : "NORTH"
+    } ]
+  }, {
+    "leftVehicles" : [ null ]
+  }, {
+    "leftVehicles" : [ null ]
+  }, {
+    "leftVehicles" : [ null ]
+  } ]
+}
